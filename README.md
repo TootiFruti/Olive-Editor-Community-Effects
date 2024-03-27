@@ -14,6 +14,7 @@ A community effort to populate effects for Olive-Editor. Should work from the Ol
 
 #### For Linux
 - Open this location: `~/.local/share/olivevideoeditor.org/Olive`
+- If you are using Olive from flathub then you need to use this location: `~/.var/app/org.olivevideoeditor.Olive/data/olivevideoeditor.org/Olive` 
 - Create a folder name `effects`
 - Copy the extracted forlder named `Olive-Editor-Community-Effects-master`
 - Paste it in Olive's `effects` folder.
